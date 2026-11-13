@@ -30,10 +30,10 @@ Cada grupo deverá escolher um dos 8 projetos abaixo para  desenvolver
 | <img src="icones/02-contador-de-churrasco.svg" width="40" alt=""> | 2 | [Contador de Churrasco](02_calculadora_churrasco/README.md) | Iniciante | `while`, contadores, lista de dicionários, JSON |
 | <img src="icones/03-jogo-de-adivinhacao.svg" width="40" alt=""> | 3 | [Jogo de Adivinhação](03_jogo_adivinhacao/README.md) | Iniciante | `random`, `while`, comparação, contador |
 | <img src="icones/04-chatbot-simples.svg" width="40" alt=""> | 4 | [Chatbot Simples](04_chatbot_simples/README.md) | Iniciante | `if/elif`, strings, `while True`, `break` |
-| <img src="icones/05-caixa-eletronico-atm.svg" width="40" alt=""> | 5 | [Caixa Eletrônico (ATM)](projetos/05-caixa-eletronico-atm.md) | Intermediário | menu, funções, saldo, extrato (lista) |
-| <img src="icones/06-lista-de-tarefas.svg" width="40" alt=""> | 6 | [Lista de Tarefas](01_mini_pdv/README.md) | Intermediário | lista de dicionários, CRUD, índices |
-| <img src="icones/07-boletim-escolar.svg" width="40" alt=""> | 7 | [Boletim Escolar](01_mini_pdv/README.md) | Intermediário | `for`, dicionários, média, classificação |
-| <img src="icones/08-quiz-de-perguntas.svg" width="40" alt=""> | 8 | [Quiz de Perguntas](01_mini_pdv/README.md) | Intermediário | lista de dicionários, `for`, pontuação, percentual |
+| <img src="icones/05-caixa-eletronico-atm.svg" width="40" alt=""> | 5 | [Caixa Eletrônico (ATM)](05_caixa_eletronico/README.md) | Intermediário | menu, funções, saldo, extrato (lista) |
+| <img src="icones/06-lista-de-tarefas.svg" width="40" alt=""> | 6 | [Lista de Tarefas](06_lista_tarefas/README.md) | Intermediário | lista de dicionários, CRUD, índices |
+| <img src="icones/07-boletim-escolar.svg" width="40" alt=""> | 7 | [Boletim Escolar](07_boletim_escolar/README.md) | Intermediário | `for`, dicionários, média, classificação |
+| <img src="icones/08-quiz-de-perguntas.svg" width="40" alt=""> | 8 | [Quiz de Perguntas](08_quiz_perguntas/README.md) | Intermediário | lista de dicionários, `for`, pontuação, percentual |
 
 
 
