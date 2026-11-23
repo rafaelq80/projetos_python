@@ -35,17 +35,13 @@ Um supermercado precisa de um programa de caixa que registre os produtos de um c
 
 <p align="center"><img src="../fluxogramas/01-mini-pdv.png" alt="Ícone do projeto Mini PDV (Ponto de Venda)"></p>
 
-### 6. Telas
-
-
-
-### 7. Desafios Extras
+### 6. Desafios Extras
 
 - Pedir a **quantidade** de cada produto (subtotal do item = preço × quantidade).
 - Perguntar a **forma de pagamento** e, em dinheiro, calcular o **troco**.
 - Criar um **desconto progressivo** (ex.: 5% acima de R$ 50, 10% acima de R$ 100, 15% acima de R$ 200).
 
-### 8. Critérios de Conclusão
+### 7. Critérios de Conclusão
 
 - [ ] O programa não quebra ao digitar letras no preço.
 - [ ] O cupom lista todos os itens digitados.

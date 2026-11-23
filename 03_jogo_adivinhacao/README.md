@@ -36,17 +36,13 @@ Criar um jogo em que o computador "pensa" em um número secreto e o jogador tent
 
 <p align="center"><img src="../fluxogramas/03-jogo-de-adivinhacao.png" alt="Ícone do projeto Jogo de Adivinhação"></p>
 
-### 6. Telas
-
-
-
-### 7. Desafios Extras
+### 6. Desafios Extras
 
 - Perguntar "Jogar novamente? (s/n)" e repetir a partida.
 - Deixar o jogador escolher o **intervalo** (ex.: 1 a 100) e calcular um limite justo de tentativas.
 - Guardar o **recorde** (menor número de tentativas) durante a sessão.
 
-### 8. Critérios de Conclusão
+### 7. Critérios de Conclusão
 
 - [ ] Digitar "abc" ou 11 não gasta tentativa.
 - [ ] As dicas de maior e menor estão corretas.

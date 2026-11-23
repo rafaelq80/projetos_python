@@ -37,17 +37,13 @@ Um professor quer registrar as notas dos alunos, calcular a média de cada um e 
 
 <p align="center"><img src="../fluxogramas/07-boletim-escolar.png" alt="Ícone do projeto Boletim Escolar"></p>
 
-### 6. Telas
-
-
-
-### 7. Desafios Extras
+### 6. Desafios Extras
 
 - Contar quantos alunos ficaram em **cada situação** (aprovados, recuperação, reprovados).
 - Permitir **pesos diferentes** para as notas (ex.: prova final vale mais).
 - Exibir os alunos **ordenados por média** (`sorted` com `key`).
 
-### 8. Critérios de Conclusão
+### 7. Critérios de Conclusão
 
 - [ ] Notas como -1, 11 e texto são recusadas.
 - [ ] Média exatamente 7,0 resulta em Aprovado; exatamente 5,0 em Recuperação.

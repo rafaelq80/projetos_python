@@ -37,17 +37,13 @@ Uma pessoa quer organizar seu dia com um programa que guarda tarefas, mostra o q
 
 <p align="center"><img src="../fluxogramas/06-lista-de-tarefas.png" alt="Ícone do projeto Lista de Tarefas"></p>
 
-### 6. Telas
-
-
-
-### 7. Desafios Extras
+### 6. Desafios Extras
 
 - Adicionar **prioridade** (alta, média, baixa) e listar por prioridade.
 - Permitir **editar** a descrição de uma tarefa.
 - **Salvar e carregar** as tarefas de um arquivo `.json` ao abrir e fechar o programa.
 
-### 8. Critérios de Conclusão
+### 7. Critérios de Conclusão
 
 - [ ] Tarefa vazia, número 0 e número acima do total são recusados.
 - [ ] Após remover uma tarefa, a numeração se ajusta corretamente.

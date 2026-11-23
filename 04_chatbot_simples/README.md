@@ -34,18 +34,14 @@ Criar um assistente de conversa por texto que reconhece algumas frases e respond
 
 <p align="center"><img src="../fluxogramas/04-chatbot-simples.png" alt="Ícone do projeto Chatbot Simples"></p>
 
-### 6. Telas
-
-
-
-### 7. Desafios Extras
+### 6. Desafios Extras
 
 - Criar um **menu de comandos numerado** (1 = piada, 2 = hora, 3 = sair).
 - Dar uma **personalidade** ao bot (bem-humorado, formal, pirata...).
 - Guardar as respostas em um **dicionário** (`respostas = {"oi": "Olá!"}`) e eliminar a cadeia de `elif`.
 - Perguntar o **nome do usuário** no início e usá-lo nas respostas.
 
-### 8. Critérios de Conclusão
+### 7. Critérios de Conclusão
 
 - [ ] `OI`, `  oi  ` e `Oi` são reconhecidos.
 - [ ] Frases desconhecidas recebem a resposta padrão.

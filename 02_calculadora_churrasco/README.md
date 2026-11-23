@@ -38,17 +38,13 @@ Um organizador de churrasco quer cadastrar os convidados e descobrir **quanta co
 
 <p align="center"><img src="../fluxogramas/02-contador-de-churrasco.png" alt="Ícone do projeto Contador de Churrasco"></p>
 
-### 6. Telas
-
-
-
-### 7. Desafios Extras
+### 6. Desafios Extras
 
 - Exibir **quanto cada convidado paga** (nome e valor).
 - Adicionar uma pergunta "Bebe álcool?" para adultos que não bebem pagarem só a comida.
 - **Salvar o relatório** em um arquivo `.json` com `open()` e `json.dump()`.
 
-### 8. Critérios de Conclusão
+### 7. Critérios de Conclusão
 
 - [ ] Idade com letras ou vazia é rejeitada.
 - [ ] Menor de 18 anos **não** entra na conta da cerveja nem paga a cota de bebida.

@@ -36,18 +36,14 @@ Um banco precisa de um terminal simples onde o cliente consulta saldo, deposita,
 
 <p align="center"><img src="../fluxogramas/05-caixa-eletronico-atm.png" alt="Ícone do projeto Caixa Eletrônico (ATM)"></p>
 
-### 6. Telas
-
-
-
-### 7. Desafios Extras
+### 6. Desafios Extras
 
 - Adicionar **PIN de 4 dígitos** com no máximo 3 tentativas.
 - Limitar a **3 saques por sessão**.
 - Criar uma **taxa de saque** (ex.: R$ 2,50 por operação).
 - Transformar cada opção em uma **função** (`depositar()`, `sacar()`...).
 
-### 8. Critérios de Conclusão
+### 7. Critérios de Conclusão
 
 - [ ] Saque maior que o saldo ou maior que R$ 500,00 é recusado.
 - [ ] Valores negativos, zero e texto são recusados.

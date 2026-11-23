@@ -36,18 +36,14 @@ Criar um quiz de conhecimentos gerais em que o jogador responde perguntas de mú
 
 <p align="center"><img src="../fluxogramas/08-quiz-de-perguntas.png" alt="Ícone do projeto Quiz de Perguntas"></p>
 
-### 6. Telas
-
-
-
-### 7. Desafios Extras
+### 6. Desafios Extras
 
 - **Embaralhar** a ordem das perguntas com `random.shuffle()`.
 - Perguntar "Jogar novamente?" e guardar a **melhor pontuação**.
 - Organizar as perguntas por **categoria** e deixar o jogador escolher o tema.
 - Adicionar **tempo limite** por pergunta (módulo `time`).
 
-### 8. Critérios de Conclusão
+### 7. Critérios de Conclusão
 
 - [ ] Opção 0, 5 (quando só há 4 opções) e texto são recusadas sem perder a pergunta.
 - [ ] A pontuação final corresponde ao número de acertos reais.
